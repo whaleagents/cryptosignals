@@ -51,6 +51,7 @@ When you are a dedicated cryptocurrency Signals followers it's always Recommende
 You should be aware of the well-known cryptocurrency news websites out there in order to make sure that you stay updated about the cryptocurrency market before you follow a Telegram crypto signal. 
 
 * <a href="https://Cointelegraph.com" rel="dofollow">CoinTelegraph</a>
+* <a href="https://www.youtube.com/channel/UCTdMwvzemdK5Bwhu0s9oM8A" rel="dofollow">Daily Crypto Analysis by Whaleagent</a>
 * <a href="https://cryptopotato.com" rel="dofollow">CryptoPotato</a>
 * <a href="https://coindesk.com" rel="nofollow">CoinDesk</a>
 * <a href="https://Bitcoin.org" rel="nofollow">Bitcoin Core Official</a>
