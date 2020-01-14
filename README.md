@@ -1,6 +1,8 @@
 # Crypto Signals Resources Intro
 
- Welcome to our crypto signals wiki. <a href="https://www.whaleagent.club" rel="dofollow">Whaleagent</a> goal is to provide you with High-quality resources to follow the cryptocurrency market in order to do Proper research before you decided to follow any signal from Telegram signals channel provider. Copy and paste the signal is the easy part, However - You always need to do your own research before you follow a crypto signal
+ Welcome to our crypto signals wiki. <a href="https://www.whaleagent.club" rel="dofollow">Whaleagent</a> goal is to provide you with High-quality resources to follow the cryptocurrency market in order to do Proper research before you decided to follow any signal from Telegram signals channel provider. Copy and paste the signal is the easy part, However - You always need to do your own research before you follow a crypto signal. 
+ * <a href="https://www.coincurb.com/news/are-crypto-trading-signals-worth-it/" rel="dofollow">Is Cryptocurrency signals worth it?</a>
+
 
 # Table of Context:
 
@@ -66,6 +68,7 @@ Stay connected with the WhaleAgents Trading team and feel free to join our Publi
 * <a href="https://www.reddit.com/r/WhaleAgents/" rel="dofollow">Reddit</a>
 * <a href="https://t.me/whaleagent" rel="nofollow">Telegram</a>
 * <a href="https://steemit.com/@whaleagent" rel="dofollow">Steemit</a>
-* <a href="https://whaleagent.club/about-us/" rel="nofollow">About us</a>
+* <a href="https://whaleagent.club/about-us/" rel="dofollow">About us</a>
+
 
 
